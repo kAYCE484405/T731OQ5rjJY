@@ -1,7 +1,6 @@
 .idea/
 media/
 venv/
-.gitignore
 datadump_pretty.json
 db.sqlite
 dump.json
