@@ -23,7 +23,6 @@ github:
     - scala
     - r
     - java
-    - big-data
     - jdbc
     - sql
     - spark
